@@ -31,7 +31,6 @@ Building projects, learning AWS, and documenting my journey.
 
 Thanks for visiting ♡
 
-Happy coding!
 
 ────────────୨ৎ────────────
 

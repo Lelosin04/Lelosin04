@@ -1,6 +1,6 @@
 -<div align="center">
 
-# ☁️ Hi, I'm Leah! ☁️
+# ☁️ hi, i'm Leah! ☁️
 
 ### Aspiring DevOps & Cloud Engineer
 

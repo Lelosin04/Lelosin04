@@ -9,13 +9,37 @@ Building projects, learning AWS, and documenting my journey.
 <img src="YOUR_PROFILE_BANNER_OR_GIF" width="700">
 
 </div>
--
--
-- 👋 Hi, I’m @Lelosin04
-- 👀 I’m interested in devops, AWS Cloud Security, and Dylan O'Brien
-- 🌱 I’m currently a sophmore majoring in Cybersecurity. I am learning AWS, Devops, Linux and cybersercurity fundamentals
-- 😄 Pronouns: her/she
-- ⚡ Fun fact: I love animals 
+-────────────୨ৎ────────────
+
+## ♡ About Me ♡
+
+🌸 Cybersecurity student
+
+☁️ Learning AWS & DevOps
+
+💻 Building cloud projects
+
+📍 Georgia
+
+🎯 Goal: Become a DevOps Engineer
+
+⚡ Fun fact: I love animals 
+
+────────────୨ৎ────────────
+
+────────────୨ৎ────────────
+
+Thanks for visiting ♡
+
+Happy coding!
+
+────────────୨ৎ────────────
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,linux,git,github,docker,bash,python,vscode"/>
+
+</p>
 
 <!---
 Lelosin04/Lelosin04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

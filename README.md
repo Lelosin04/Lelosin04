@@ -35,11 +35,6 @@ Happy coding!
 
 ────────────୨ৎ────────────
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,linux,git,github,docker,bash,python,vscode"/>
-
-</p>
 
 <!---
 Lelosin04/Lelosin04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

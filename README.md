@@ -6,9 +6,7 @@
 
 Building projects, learning AWS, and documenting my journey.
 
-<img src="YOUR_PROFILE_BANNER_OR_GIF" width="700">
 
-</div>
 -────────────୨ৎ────────────
 
 ## ♡ About Me ♡

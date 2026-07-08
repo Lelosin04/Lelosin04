@@ -1,29 +1,28 @@
 -<div align="center">
 
-# ‎₊˚⊹ Ɛǐ3 ⋆₊ ⊹‎₊˚⊹ Ɛǐ3 ⋆₊ ⊹ hi, i'm 𝓵𝓮𝓪𝓱! ‎₊˚⊹ Ɛǐ3 ⋆₊ ⊹‎₊˚⊹ Ɛǐ3 ⋆₊ ⊹
+𑣲⋆ hi, i'm 𝓵𝓮𝓪𝓱! 𑣲⋆ ⋆₊ 
+⋆˚࿔ ⋆౨ৎ˚⟡.• ࿔˚⋆
 
-### Aspiring DevOps & Cloud Engineer
+˗ˏˋ ♡˗ Aspiring DevOps & Cloud Engineer♡ ˎˊ˗
 
 Building projects, learning AWS, and documenting my journey.
 
 
--────────────୨ৎ────────────
+-────────────୨ৎ────────────────────────୨ৎ────────────────────────୨ৎ────────────
 
 ## ♡ About Me ♡
 
-🌸 Cybersecurity student
+⟡ Cybersecurity student
 
-☁️ Learning AWS & DevOps
+⟡ Learning AWS & DevOps
 
-💻 Building cloud projects
+⟡ Building cloud projects
 
-📍 Georgia
+⟡ Georgia based
 
-🎯 Goal: Become a DevOps Engineer
+⟡ Fun fact: I love animals! 
 
-⚡ Fun fact: I love animals 
-
-────────────୨ৎ────────────
+────────────୨ৎ────────────────────────୨ৎ────────────────────────୨ৎ────────────
 
 ────────────୨ৎ────────────
 

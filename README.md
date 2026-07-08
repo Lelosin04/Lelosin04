@@ -13,9 +13,13 @@ Building projects, learning AWS, and documenting my journey.
 ## ♡ About Me ♡
 
 > ⟡ Cybersecurity student
+> 
 > ⟡ Learning AWS & DevOps
+> 
 > ⟡ Building cloud projects
+> 
 > ⟡ Georgia based
+> 
 > ⟡ Fun fact: I love animals! 
 
 ────────────୨ৎ────────────────────────୨ৎ────────────────────────୨ৎ────────────

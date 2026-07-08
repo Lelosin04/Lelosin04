@@ -1,31 +1,35 @@
 -<div align="center">
 
-##  ♡𑣲⋆  hi im 𝓵𝓮𝓪𝓱!  𑣲⋆ ⋆₊ 
+##   ˗ˏˋ ♡ hi im 𝓵𝓮𝓪𝓱! ♡ ˎˊ˗
 ⋆˚࿔ ⋆౨ৎ˚⟡.• ࿔˚⋆
 
-˗ˏˋ ♡˗ Aspiring DevOps & Cloud Engineer♡ ˎˊ˗
+✿ Aspiring DevOps & Cloud Engineer ✿
 
-Building projects, learning AWS, and documenting my journey.
 
+<hr>
 </div>
 
 
-## ♡ About Me ♡
+## a little about me...
 
-> ⟡ Cybersecurity student
+
+> ⟡ I am a Cybersecurity student
 > 
-> ⟡ Learning AWS & DevOps
+> ⟡ I am currently learning AWS & DevOps
 > 
-> ⟡ Building cloud projects
+> ⟡ I enjoy building cloud projects
 > 
-> ⟡ Georgia based
+> ⟡ I am based in Georgia, US 
 > 
 > ⟡ Fun fact: I love animals! 
 
 
+<hr>
+-<div align="center">
+⋆｡˚ ☁︎ ˚｡⋆୨୧˚ ⋆ ˚｡⋆୨୧˚ ⋆ ˚｡⋆୨୧˚ ⋆｡˚ ☁︎ ˚｡⋆ ⋆
 
 Thanks for visiting ♡
-
+</div>
 
 
 
